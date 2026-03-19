@@ -1,6 +1,6 @@
 # Omprakash Chhotaray | Data Scientist
 
-📍 Odisha, India · 📧 [your email] · 💼 [LinkedIn]
+📍 Odisha, India · 📧 [ommprakashchhotaray0@gmail.com] · 💼 [LinkedIn]
 🎯 Open to: Data Analyst · Junior Data Scientist
 
 ---
