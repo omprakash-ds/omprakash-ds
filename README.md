@@ -1,11 +1,14 @@
 # Om Prakash | Junior Data Scientist
 
-**BSc Computer Science** | Building practical Data Science & ML solutions with real business impact
+**BSc Computer Science** |2 deployed ML projects | Python · Scikit-learn · Streamlit
+
+
+
 
 ### 🛠️ Tech Stack
 **Core:** Python, Pandas, NumPy, Scikit-learn, SQL  
 **Visualization:** Matplotlib, Seaborn, Streamlit  
-**Currently Learning:** XGBoost, Advanced Feature Engineering, MLOps
+**Exploring:** XGBoost, FastAPI, MLOps fundamentals
 
 ### 📊 Featured Projects
 
@@ -16,7 +19,8 @@
 - Performed detailed EDA and feature engineering (FamilySize, Title extraction, AgeGroup, IsAlone)
 - Identified **Gender** and **Passenger Class** as the strongest survival predictors
 - Created interactive web application using Streamlit for real-time predictions
-
+- Add dataset size: 891 rows, 12 features
+- 
 **Tech:** Python, Pandas, Scikit-learn, Streamlit
 
 
