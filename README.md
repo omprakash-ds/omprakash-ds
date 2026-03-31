@@ -1,6 +1,6 @@
 # Om Prakash | Junior Data Scientist
 
-**BSc Computer Science** |2 deployed ML projects | Python · Scikit-learn · Streamlit
+**BSc Computer Science** | Python · Scikit-learn · Streamlit
 
 
 
