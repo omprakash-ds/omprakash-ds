@@ -19,7 +19,6 @@
 
 **Tech:** Python, Pandas, Scikit-learn, Streamlit
 
-*(You can add House Price, Telco Churn, etc. here as you complete them)*
 
 
 
