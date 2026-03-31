@@ -1,4 +1,4 @@
-# Om Prakash | Aspiring Junior Data Scientist
+# Om Prakash | Junior Data Scientist | 5 End-to-End Deployed ML Projects
 
 BSc Computer Science | Building practical Data Science & ML projects
 
