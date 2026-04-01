@@ -1,4 +1,4 @@
-# Om Prakash | Junior Data Scientist
+# OmPrakash | Junior Data Scientist
 
 **BSc Computer Science** | Python · Scikit-learn · Streamlit
 
