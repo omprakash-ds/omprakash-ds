@@ -4,7 +4,6 @@
 🔭 Aspiring Data Scientist — building real ML projects from scratch
 
 
-
 ---
 
 ## 🛠️ Tech Stack
@@ -45,6 +44,7 @@
 
 ---
 *"Every expert was once a beginner. I'm just getting started."* 🚀
+
 
 
 
