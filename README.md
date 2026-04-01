@@ -1,4 +1,4 @@
-# Hi, I'm OmPrakash Chhotray 👋
+# Hi, I'm OmPrakash Chhotray 
 
 🎓 BSc Computer Science | Odisha, India
 🔭 Aspiring Data Scientist — building real ML projects from scratch
