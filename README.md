@@ -1,54 +1,37 @@
-# Hi, I'm OmPrakash Chhotray 
+# Hi, I'm OmPrakash Chhotray
 
-🎓 BSc Computer Science | Odisha, India
-🔭 Aspiring Data Scientist — building real ML projects from scratch
-
+Building production-style ML systems, not tutorials. Currently focused on fraud detection and financial document intelligence.
 
 ---
 
-## 🛠️ Tech Stack
-**Core:** Python · Pandas · NumPy · Scikit-learn · SQL
-**Visualization:** Matplotlib · Seaborn · Streamlit
-**Exploring:** XGBoost · FastAPI · MLOps fundamentals
+## What I've Built
+
+### Fraud Detection Pipeline
+XGBoost + scikit-learn on 284K real transactions. Precision 0.945, Recall 0.873, F1 0.907, 94% test coverage (32 tests), leak-free pipeline (validated with TimeSeriesSplit).
+[Code](https://github.com/omprakash-ds/fraud_detector) · Live demo: coming soon
+
+### Titanic Survival Predictor
+End-to-end ML: EDA → feature engineering → model → deployed app. 83% accuracy, 0.897 ROC-AUC, 5-fold cross-validation.
+[Live app](https://titanic-survival-eda-fogo26ksmkvn73sxghhjdq.streamlit.app/) · [Code](https://github.com/omprakash-ds/titanic-survival-eda)
 
 ---
 
-## 📊 Projects
-
-### 🚢 Titanic Survival Predictor
-> End-to-end ML project — EDA → Feature Engineering → Model → Live Deployment
-
-- 🎯 83% Accuracy | 0.897 ROC-AUC | 5-fold Cross Validation
-- ⚙️ Engineered 4 features: Title, FamilySize, AgeGroup, IsAlone
-- 🚀 Deployed as live interactive web app on Streamlit
-
-[![Live App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://titanic-survival-eda-fogo26ksmkvn73sxghhjdq.streamlit.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-black?logo=github)](https://github.com/omprakash-ds/titanic-survival-eda)
+## Stack
+**Using now:** Python · SQL · pandas/NumPy · scikit-learn · XGBoost · Streamlit
+**Building toward:** FastAPI · Docker · PostgreSQL (window functions, indexing, partitioning) · RAG / vector databases
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=omprakash-ds&show_icons=true&theme=tokyonight&hide_border=true)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omprakash-ds&layout=compact&theme=tokyonight&hide_border=true)
 
----
-
-## 🔥 Contribution Streak
-[![Streak](https://streak-stats.demolab.com?user=omprakash-ds&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+![Streak](https://streak-stats.demolab.com?user=omprakash-ds&theme=tokyonight&hide_border=true)
 
 ---
 
-## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Coming_Soon-blue?logo=linkedin)](/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Coming_Soon-20BEFF?logo=kaggle)](/)
+## Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/omprakashchhotray-ds/)
 
----
-*"Every expert was once a beginner. I'm just getting started."* 🚀
-
-
-
-
-
-
-
+Open to Data Science / ML Engineering roles, particularly fintech.
 
