@@ -32,6 +32,7 @@ End-to-end ML: EDA → feature engineering → model → deployed app. 83% accur
 
 ## Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/omprakashchhotray-ds/)
+[![Boot.dev Learn SQL certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/6d8fc534-b2ec-4b54-b34d-435731d84704.jpeg?v=1790241408)](https://www.boot.dev/certificates/6d8fc534-b2ec-4b54-b34d-435731d84704)
 
 Open to Data Science / ML Engineering roles, particularly fintech.
 
